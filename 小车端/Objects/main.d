@@ -28,7 +28,8 @@
 .\objects\main.o: .\Library\stm32f10x_usart.h
 .\objects\main.o: .\Library\stm32f10x_wwdg.h
 .\objects\main.o: .\Library\misc.h
+.\objects\main.o: .\Hardware\usart.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\main.o: .\System\Delay.h
 .\objects\main.o: .\Hardware\NRF24L01.h
-.\objects\main.o: .\Hardware\OLED.h
 .\objects\main.o: .\Hardware\Servo.h
